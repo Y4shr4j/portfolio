@@ -23,7 +23,7 @@ const projects = [
   },
   {
     title: "JOB-BOT",
-    cardImage: "assets/images/project-page/flappybird.png",
+    cardImage: "https://media.istockphoto.com/id/1518671364/photo/woman-and-ai-robot-working-together.jpg?s=1024x1024&w=is&k=20&c=LSnnP013KDe2O21lsiG-hOkG5MbGEEASkTpTxDDnNlg=",
     description: "A Bot Software which fills application for JOBS",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
@@ -39,9 +39,9 @@ const projects = [
   },
   {
     title: "Face Detection",
-    cardImage: "assets/images/project-page/recipe.jpg",
+    cardImage: "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202203/face-600x900.png?itok=4wm2x8C2",
     description: "Recipe Ingredient Parser built using JavaScript.",
-    tagimg:"assets/images/project-page/autovaidya.jpg",
+    tagimg:"https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202203/face-600x900.png?itok=4wm2x8C2",
     Previewlink: "https://facedetection-seven.vercel.app/",
     Githublink: "https://github.com/Y4shr4j/facedetection",
   },
