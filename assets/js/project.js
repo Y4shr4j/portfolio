@@ -27,7 +27,7 @@ const projects = [
     description: "A Bot Software which fills application for JOBS",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
-    Githublink: "",
+    Githublink: "https://github.com/Y4shr4j/Jobbot",
   },
   {
     title: "Expense Tracker",
@@ -41,18 +41,17 @@ const projects = [
     title: "Face Detection",
     cardImage: "assets/images/project-page/recipe.jpg",
     description: "Recipe Ingredient Parser built using JavaScript.",
-    tagimg:
-      "",
+    tagimg:"assets/images/project-page/autovaidya.jpg",
     Previewlink: "https://facedetection-seven.vercel.app/",
     Githublink: "https://github.com/Y4shr4j/facedetection",
   },
   {
-    title: "Poker Game",
-    cardImage: "assets/images/project-page/poker.jpg",
-    description: "Poker game built using typescript.",
+    title: "Food Club",
+    cardImage: "assets/images/project-page/recipe.jpg",
+    description: "Food delivery App built using MERN stack.",
     tagimg: "https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png",
-    Previewlink: "",
-    Githublink: "",
+    Previewlink: "https://eatclubclone.vercel.app/",
+    Githublink: "https://github.com/Y4shr4j/eatclubclone",
   },
   // {
   //   title: "Tic Tac Toe Game",
